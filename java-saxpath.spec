@@ -4,12 +4,11 @@
 %define		srcname		saxpath
 %define		subver		FCS
 %define		rel			1
-Summary:	saxpath
-Summary(pl.UTF-8):	saxpath
-Name:		saxpath
+Summary:	Simple API for XPath
+Name:		java-saxpath
 Version:	1.0
 Release:	0.%{subver}.%{rel}
-License:	unknown
+License:	Apache-style
 Group:		Libraries/Java
 Source0:	http://downloads.sourceforge.net/project/saxpath/saxpath/1.0%20FCS/%{name}-%{version}.tar.gz
 # Source0-md5:	cc95ecc7dfb689a29bd42323490ee702
