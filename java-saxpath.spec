@@ -10,7 +10,7 @@ Version:	1.0
 Release:	0.%{subver}.%{rel}
 License:	Apache-style
 Group:		Libraries/Java
-Source0:	http://downloads.sourceforge.net/project/saxpath/saxpath/1.0%20FCS/%{name}-%{version}.tar.gz
+Source0:	http://sourceforge.net/projects/saxpath/files/saxpath/1.0%20FCS/%{srcname}-%{version}.tar.gz/download
 # Source0-md5:	cc95ecc7dfb689a29bd42323490ee702
 Patch0:		buildfix.patch
 URL:		http://saxpath.org
