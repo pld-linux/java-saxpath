@@ -1,0 +1,12 @@
+--- saxpath-1.0-FCS/build.xml~	2002-04-26 19:52:22.000000000 +0200
++++ saxpath-1.0-FCS/build.xml	2010-06-15 17:41:36.000000000 +0200
+@@ -198,8 +198,7 @@
+ 
+     <jar jarfile="${build.dir}/${name}.jar"
+          basedir="${build.dest}"
+-         includes="org/saxpath/**,com/werken/**"
+-         manifest="src/conf/MANIFEST.MF"/>
++		 includes="org/saxpath/**,com/werken/**"/>
+     <!-- 
+     <jar jarfile="${build.dir}/${name}-all.jar"
+          basedir="${build.dest}"
